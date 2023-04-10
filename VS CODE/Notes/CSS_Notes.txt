@@ -1,0 +1,61 @@
+CSS :
+    Cascading style sheets
+
+Why Css?
+
+-> Consistency
+-> Saved a lot of time
+-> Provided many attributes
+
+
+CSS Syntax:
+    h1{ color:yello; font-size:11px; }
+    1. Selector
+    2. Property
+    3. Value
+    4. Declaration block ({Everything inside this})
+
+Types of Declareing CSS :
+    1. inline CSS -- scope : just for a perticular element
+    2. Internal CSS --Scope : Just for a perticular web-page/HTML file
+    3. External CSS --Scope : for all the linked files
+
+CSS Selectors:
+    1. Simple -- Done!!
+    2. Combinators -- Done!!
+    3. Pseudo-class -- Done!!
+    4. Pseudo-elements -- Done!!
+    5. attribute -- Done!!
+
+Simple Selectors:
+    1. Universal Selector (*)
+    2. class (.)
+    3. id (#)
+    4. element (h1,p,header)
+    5. Group elements 
+
+Combinators Selectors:
+    1. Descendent (Ex : div p)
+    2. Child (Ex : div p)
+    3. adjacent sibling (Ex: div + p)
+    4. genral Sibling (Ex: div ~ p)
+
+Pseudo-classes :
+    1. hover
+    2. focus
+    :
+    :
+
+Pseudo-elements : 
+    1.first-letter
+    2.first-linked
+    :
+    :
+
+Attribute : 
+    
+Box-Model : 
+    1. Content
+    2. Padding
+    3. border
+    4. Margin

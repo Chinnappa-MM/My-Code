@@ -1,0 +1,99 @@
+# R Programming Language – Introduction:
+
+// R is an open-source programming language that is widely used as a statistical software and data analysis tool. 
+// R generally comes with the Command-line interface. 
+// R is available across widely used platforms like Windows, Linux, and macOS. 
+// Also, the R programming language is the latest cutting-edge tool.
+// It was designed by Ross Ihaka and Robert Gentleman at the University of Auckland, New Zealand, and is currently developed by the R Development Core Team. 
+// R programming language is an implementation of the S programming language. 
+// It also combines with lexical scoping semantics inspired by Scheme. 
+// Moreover, the project conceives in 1992, with an initial version released in 1995 and a stable beta version in 2000.
+
+# Why R Programming Language?
+
+// R programming is used as a leading tool for machine learning, statistics, and data analysis. Objects, functions, and packages can easily be created by R.
+// It’s a platform-independent language. This means it can be applied to all operating system.
+// It’s an open-source free language. That means anyone can install it in any organization without purchasing a license.
+// R programming language is not only a statistic package but also allows us to integrate with other languages (C, C++). Thus, you can easily interact with many data sources and statistical packages.
+// The R programming language has a vast community of users and it’s growing day by day.
+// R is currently one of the most requested programming languages in the Data Science job market that makes it the hottest trend nowadays.
+
+# Basic Syntax in R Programming
+
+// Syntax of R program
+
+// A program in R is made up of three things: Variables, Comments, and Keywords. Variables are used to store the data, Comments are used to improve code readability, and Keywords are reserved words that hold a specific meaning to the compiler.
+
+// Variables in R
+
+//Previously, we wrote all our code in a print() but we don’t have a way to address them as to perform further operations. 
+//This problem can be solved by using variables which like any other programming language are the name given to reserved memory locations that can store any type of data.
+
+// In R, the assignment can be denoted in three ways:
+
+ = (Simple Assignment)
+ <- (Leftward Assignment)
+ -> (Rightward Assignment)
+
+ // Types of the operator in R language
+
+* Arithmetic Operators
+* Logical Operators
+* Relational Operators
+* Assignment Operators
+* Miscellaneous Operator
+
+# Arithmetic Operators
+
+* Addition operator (+)
+* Subtraction Operator (-)
+* Multiplication Operator (*)
+* Division Operator (/)
+* Power Operator (^)
+* Modulo Operator (%%)
+
+# Logical Operators
+
+* Element-wise Logical AND operator (&)
+* Element-wise Logical OR operator (|)
+* NOT operator (!)
+* Logical AND operator (&&)
+* Logical OR operator (||) 
+
+# Relational Operators
+
+* Less than (<)
+* Less than equal to (<=)
+* Greater than (>)
+* Greater than equal to (>=)
+* Not equal to (!=)
+
+# Miscellaneous Operators
+
+* %in% Operator: 
+Checks if an element belongs to a list and returns a boolean value TRUE if the value is present  else FALSE.
+
+* Colon Operator(:): 
+Prints a list of elements starting with the element before the colon to the element after it.
+
+* %*% Operator: 
+This operator is used to multiply a matrix with its transpose. Transpose of the matrix is obtained by interchanging the rows to columns and columns to rows. The number of columns of the first matrix must be equal to the number of rows of the second matrix. Multiplication of the matrix A with its transpose, B, produces a square matrix. 
+
+# IMP Functions
+
+* class() function 
+This built-in function is used to determine the data type of the variable provided to it. The variable to be checked is passed to this as an argument and it prints the data type in return.
+
+* ls() function 
+This built-in function is used to know all the present variables in the workspace. This is generally helpful when dealing with a large number of variables at once and helps prevents overwriting any of them.
+
+* rm() function 
+This is again a built-in function used to delete an unwanted variable within your workspace. This helps clear the memory space allocated to certain variables that are not in use thereby creating more space for others. The name of the variable to be deleted is passed as an argument to it.
+
+# Taking Input from User in R Programming
+
+* Developers often have a need to interact with users, either to get data or to provide some sort of result. Most programs today use a dialog box as a way of asking the user to provide some type of input. Like other programming languages in R it’s also possible to take input from the user. For doing so, there are two methods in R. 
+ 
+* Using readline() method
+
+* Using scan() method

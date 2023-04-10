@@ -1,0 +1,62 @@
+2+2
+300-199
+A <- c(2,3,4,5,6)
+B <- matrix(1:9,byrow=TRUE,nrow=3)
+View(B)
+View(B)
+gc()
+print("Hello World!!")
+??class
+?class
+?cbind
+?cbind
+?names
+View(B)
+2+2
+3*3
+2+2
+3*3
+34+47*5
+76-34
+2+2
+a = 1
+b=5
+a <- 2
+34 -> a
+34 <- a
+34 -> a
+class(a)
+class(a)
+class(b)
+a <- "Chirag"
+class(a)
+?class
+?c
+a <- c(23,45,65,23,34,54)
+a
+print(" Hello World")
+print(a)
+b<-matrix(1:9,nrow=3,byrow=TRUE)
+b
+View(b)
+view(b)
+View(b)
+2+2
+a = 1
+b=5
+a <- 2
+34 -> a
+class(a)
+a <- "Chirag"
+class(a)
+?c
+a <- c(23,45,65,23,34,54)
+a
+print(" Hello World")
+print(a)
+b<-matrix(1:9,nrow=3,byrow=TRUE)
+b
+view(b)
+View(b)
+install.packages("tidyverse")
+library("tidyverse")
